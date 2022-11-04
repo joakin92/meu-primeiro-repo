@@ -1,2 +1,2 @@
 # meu-primeiro-repo
-Meu primeiro repositório
+Esse repositório se trata do primeiro projeto da Cubos Academy.
